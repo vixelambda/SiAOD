@@ -1,0 +1,19 @@
+﻿  practice_13.cpp
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(22,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(26,20): warning C4305: =: усечение из "__int64" в "int"
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(26,9): warning C4309: =: усечение константного значения
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(51,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(53,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(75,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(76,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(83,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\practice_13.cpp(87,21): warning C4018: <: несоответствие типов со знаком и без знака
+  practice_13.vcxproj -> C:\Users\dirvi\OneDrive\АОД (2 курс)\practice_13\Debug\practice_13.exe
