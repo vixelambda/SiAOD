@@ -1,0 +1,5 @@
+﻿  practice_16.cpp
+C:\Users\Виктор\OneDrive\АОД (2 курс)\practice_16\practice_16.cpp(29,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Виктор\OneDrive\АОД (2 курс)\practice_16\practice_16.cpp(31,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Виктор\OneDrive\АОД (2 курс)\practice_16\practice_16.cpp(35,80): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  practice_16.vcxproj -> C:\Users\Виктор\OneDrive\АОД (2 курс)\practice_16\Debug\practice_16.exe
